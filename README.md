@@ -47,7 +47,8 @@ Follow these steps to install and use Insta-Cypher:
 
 ## Password Lists
 
-You can find additional password lists for your brute-force attacks on this GitHub repository: [More Passwords](https://github.com/scipag/password-list)
+- The `default-passwords.lst` included in this repository contains 308,600+ passwords that can be used for brute forcing.
+- You can find additional password lists for your brute-force attacks on this GitHub repository: [More Passwords](https://github.com/scipag/password-list)
 
 ## Usage
 
