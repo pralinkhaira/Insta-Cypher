@@ -61,9 +61,9 @@ This command will start the script, allowing you to perform brute-force attacks 
 
 ## Video Demo
 
-- Here's a video demo on how to use the script (Click on this thumbnail to play the video on YouTube)
+- Here's a video demo on how to use the script (Click on this thumbnail to play the video on Google Drive.)
 
-[![Watch the video](https://i.ibb.co/j6yFWK2/image.png)](https://youtu.be/xTxxrug6T2w)
+[![Watch the video](https://i.ibb.co/j6yFWK2/image.png)](https://bit.ly/44GKrBT)
 
 ## Disclaimer
 
