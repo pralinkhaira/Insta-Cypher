@@ -61,3 +61,4 @@ This script is provided for educational and ethical purposes only. Misuse of thi
 ## License
 
 This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
+Also checkout [Additional Notes For Liscense](Additional-Note)
