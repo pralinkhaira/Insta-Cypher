@@ -45,6 +45,10 @@ Follow these steps to install and use Insta-Cypher:
    chmod +x insta.sh
    ```
 
+## Password Lists
+
+You can find additional password lists for your brute-force attacks on this GitHub repository: [More Passwords](https://github.com/scipag/password-list)
+
 ## Usage
 
 After installation, you can run Insta-Cypher using the following command:
