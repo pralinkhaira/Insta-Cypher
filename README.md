@@ -59,6 +59,11 @@ After installation, you can run Insta-Cypher using the following command:
 
 This command will start the script, allowing you to perform brute-force attacks on Instagram accounts.
 
+## Video Demo
+
+- Here's a video demo on how to use the script.
+
+
 ## Disclaimer
 
 This script is provided for educational and ethical purposes only. Misuse of this script for unauthorized access to Instagram accounts is illegal and unethical. Use this tool responsibly and only on accounts for which you have explicit permission.
