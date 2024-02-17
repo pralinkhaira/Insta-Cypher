@@ -67,7 +67,7 @@ This command will start the script, allowing you to perform brute-force attacks 
 
 ## Disclaimer
 
-This script is provided for educational and ethical purposes only. Misuse of this script for unauthorized access to Instagram accounts is illegal and unethical. Use this tool responsibly and only on accounts for which you have explicit permission.
+This script is provided for educational and ethical purposes only. Misuse of this script for unauthorized access to Instagram accounts is illegal and unethical. By using this script, you agree that, I (Pralin Khaira) am not responsible for any illegal or unauthorized use. Use this tool responsibly and only on accounts for which you have explicit permission.
 
 ## License
 
