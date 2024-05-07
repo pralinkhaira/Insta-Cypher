@@ -69,6 +69,10 @@ This command will start the script, allowing you to perform brute-force attacks 
 
 [![Watch the video](https://i.ibb.co/j6yFWK2/image.png)](https://bit.ly/44GKrBT)
 
+
+## Update
+Thank you to user [RedDragon-MuKeYu](https://github.com/RedDragon-MuKeYu) for identifying an issue with the password list file name. When using the default password list, ensure it is named "default-passwords.lst" instead of "passwords.lst." This correction ensures that the script can read the password list correctly. If you encounter any further issues, please feel free to reach out for assistance. Your feedback is valuable in improving the script for all users.
+
 ## License
 
 - This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
