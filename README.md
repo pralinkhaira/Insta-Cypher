@@ -16,6 +16,11 @@ This script is provided for educational and ethical purposes only. Misuse of thi
 - Multi-threading support for faster password cracking.
 - Utilizes Tor for anonymous and secure connections.
 
+## **Note:** 
+- Instagram has enhanced its security for repeated incorrect brute forced password attempts, causing the script to become outdated.
+- I currently don't have an estimated time for an update, so please refrain from commenting "fake" in the issue section.
+
+
 ## Prerequisites
 
 Before you begin, make sure you have the following prerequisites:
