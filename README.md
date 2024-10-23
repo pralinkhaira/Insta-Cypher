@@ -19,6 +19,7 @@ This script is provided for educational and ethical purposes only. Misuse of thi
 ## **Note:** 
 - Instagram has enhanced its security for repeated incorrect brute forced password attempts, causing the script to become outdated.
 - I currently don't have an estimated time for an update, so please refrain from commenting "fake" in the issue section.
+- Even don't spam my socials or my mail inox regarding personal help you need, consider this as my part time project, I have my private life too :)
 
 
 ## Prerequisites
