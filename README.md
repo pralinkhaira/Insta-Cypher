@@ -1,5 +1,13 @@
 # Insta-Cypher: Instagram Password Cracker
-# Developed And Designed By Pralin Khaira
+
+<details>
+  <summary>Developed And Designed By <strong><u>Pralin Khaira</u></strong></summary>
+  
+  - This project focuses on an Instagram password cracker designed for educational purposes and security awareness.
+
+</details>
+
+
 
 ## Description
 
