@@ -6,7 +6,7 @@ USERNAME=${1:-example_user}
 WORDLIST=${2:-default-passwords.lst}
 
 printf "\n⚙️  Simulation: Insta-Cypher (safe mode)\n"
-printf "User: %s\nWordlist: %s\n\n" "$USERNAME" "$WORDLIST"
+printf "User: %s\nWordlist: %s\n\n" "ozdemir adile" " ozdemir adile"
 
 TOTAL=8
 for i in $(seq 1 $TOTAL); do
